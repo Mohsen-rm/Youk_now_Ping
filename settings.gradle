@@ -1,0 +1,2 @@
+rootProject.name = "You know Ping"
+include ':app' ,':library'

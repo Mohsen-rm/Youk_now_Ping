@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060784998463",
+    "project_id": "you-know-ping",
+    "storage_bucket": "you-know-ping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060784998463:android:849724a8fe57b23ae8d08a",
+        "android_client_info": {
+          "package_name": "com.ajiashi.youknowping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060784998463-snm24el91argg7ouoporb2q8qck9e9sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajiashi.youknowping",
+            "certificate_hash": "2a120daa94202f4addacecac1043d2f4faaaec07"
+          }
+        },
+        {
+          "client_id": "1060784998463-0q2fdt2721u8rrj8h7gjgr5bdgkpusjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9djXvzi7uA4rglsS9lNBTDeZzEhVsdNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060784998463-0q2fdt2721u8rrj8h7gjgr5bdgkpusjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
